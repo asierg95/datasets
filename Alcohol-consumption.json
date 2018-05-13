@@ -81,7 +81,7 @@
          "alcohol":0.1
       }
    ],
-   "histogramas":{
+   "histogramas":[
       "PP":
          {
             "x":1,
@@ -92,5 +92,5 @@
             "x":1,
             "y":1
          }
-   }
+   ]
 }
