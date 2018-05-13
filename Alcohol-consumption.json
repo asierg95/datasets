@@ -1,5 +1,5 @@
 {
-   "partidos":[
+   "media-alcohol":[
       {
          "location":"Belarus",
          "alcohol":17.5
@@ -82,17 +82,19 @@
       }
    ],
    
-   "histogramas":[
+   "alcohol-anual":[
       {
-         "PP":
+         "Belarus":
          {
-            "x":1,
-            "y":1
+            "2009":15,
+            "2010":16,
+            "2011":17
          },
-         "PP2":
+         "Moldova":
          {
-            "x":1,
-            "y":1
+            "2009":10,
+            "2010":11,
+            "2011":12
          }
       }
    ]
