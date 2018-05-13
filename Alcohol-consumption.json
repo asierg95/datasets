@@ -1,5 +1,5 @@
 {
-   "media-alcohol":[
+   "media":[
       {
          "location":"Belarus",
          "alcohol":17.5
@@ -82,7 +82,7 @@
       }
    ],
    
-   "alcohol-anual":[
+   "anual":[
       {
          "Belarus":
          {
