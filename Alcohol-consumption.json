@@ -87,13 +87,13 @@
          "Belarus":
          [
             {"date": 2009, "alcohol": 15},
-            {'date': 2010, "alcohol": 16},
-            {'date': 2011, "alcohol": 14.3},
-            {'date': 2012, "alcohol": 17},
-            {'date': 2013, "alcohol": 15.6},
-            {'date': 2014, "alcohol": 20},
-            {'date': 2015, "alcohol": 18},
-            {'date': 2016, "alcohol": 24}
+            {"date": 2010, "alcohol": 16},
+            {"date": 2011, "alcohol": 14.3},
+            {"date": 2012, "alcohol": 17},
+            {"date": 2013, "alcohol": 15.6},
+            {"date": 2014, "alcohol": 20},
+            {"date": 2015, "alcohol": 18},
+            {"date": 2016, "alcohol": 24}
          ],
          "Moldova":
          {
